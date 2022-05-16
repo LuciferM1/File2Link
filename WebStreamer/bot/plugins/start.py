@@ -26,7 +26,7 @@ HELP_TEXT = """
 ABOUT_TEXT = """
 <b>⚜ Mʏ ɴᴀᴍᴇ : File2Link459</b>\n
 <b>🔸Vᴇʀꜱɪᴏɴ : <a href='https://telegram.me/AlphaH8'>3.0.1</a></b>\n
-<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/AlphaH8'>Aᴠɪsʜᴋᴀʀ Pᴀᴛɪʟ</a></b>\n
+<b>🔹Dᴇᴠᴇʟᴏᴘᴇʀ : <a href='https://telegram.me/AlphaH8'>AlphaH8</a></b>\n
 <b>🔸Lᴀꜱᴛ ᴜᴘᴅᴀᴛᴇᴅ : <a href='https://telegram.me/AlphaH8'>[ 11-ᴊᴜʟʏ-21 ] 04:35 PM</a></b>"""
 
 START_BUTTONS = InlineKeyboardMarkup(
